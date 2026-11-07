@@ -4,7 +4,7 @@ proxy-providers:
 
   机场名称:
 
-    url: "https://xxl.m2-koala.sbs/s/eba3d9891accf1476a26603bb161b5d0"  
+    url: "订阅链接"  
     type: http
     interval: 86400
     health-check:
